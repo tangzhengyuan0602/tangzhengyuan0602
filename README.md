@@ -20,4 +20,8 @@ I'm a full-stack developer working across **iOS, audio/speech processing, and Py
 
 ## 📬 Contact
 
-Open to fixed-price builds and automation retainers. Reach me through GitHub or your preferred freelance platform.
+Open to fixed-price builds and automation retainers. You can find me on:
+
+- **Fiverr** — [zhengyuant](https://www.fiverr.com/zhengyuant): iOS features, speech-to-text and subtitles, automation workflows
+- **Contra** — [Zhengyuan Tang](https://contra.com/zhengyuan_tang_3f0vg2ei): custom development and retainers
+- **LinkedIn** — [zhengyuan-tang-53128b37](https://www.linkedin.com/in/zhengyuan-tang-53128b37/)
